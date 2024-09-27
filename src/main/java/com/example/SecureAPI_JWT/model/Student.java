@@ -1,4 +1,4 @@
-package com.example.SecureAPI_JWT;
+package com.example.SecureAPI_JWT.model;
 
 public class Student {
     private int id;

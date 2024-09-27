@@ -1,4 +1,4 @@
-package com.example.SecureAPI_JWT;
+package com.example.SecureAPI_JWT.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
