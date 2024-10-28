@@ -1,6 +1,6 @@
 [View Documentation](https://drive.google.com/file/d/13-HpKV65ja0ZrT19c1kRJzPKUzNtKaMJ/view?usp=sharing) 
 
-```markdown
+
 # Spring Security with JWT Authentication
 
 This project demonstrates how to secure a Spring Boot application using Spring Security and JWT (JSON Web Token) for authentication and authorization.
